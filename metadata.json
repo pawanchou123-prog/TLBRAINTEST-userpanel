@@ -1,0 +1,8 @@
+{
+  "name": "TL Brain Test user panel",
+  "description": "A professional, responsive educational quiz platform featuring AI-generated content, student gamification, and comprehensive management dashboards for academic growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
